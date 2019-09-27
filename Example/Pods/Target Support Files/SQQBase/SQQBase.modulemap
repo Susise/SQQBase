@@ -1,0 +1,6 @@
+framework module SQQBase {
+  umbrella header "SQQBase-umbrella.h"
+
+  export *
+  module * { export * }
+}
